@@ -1,0 +1,2 @@
+# My first Github project
+Getting Started with GitHub in Visual Studio Code, In this tutorial You will learn how to integrate GitHub in Visual Studio Code and how to sign in to GitHub by using Visual Studio Code and how to use Visual Studio Code to search GitHub for git repository and how to create git repository from Visual Studio Code and how to clone a git repo from Visual Studio Code and how to publish git repository from Visual Studio Code. 
